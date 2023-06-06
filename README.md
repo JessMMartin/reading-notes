@@ -1,6 +1,6 @@
 # reading-notes
 
-**Growth Mindset**
+# Growth Mindset #
 
 *Hello Everyone. My Name is Jess & welcome to my coding journey!*
 
