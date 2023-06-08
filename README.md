@@ -1,4 +1,4 @@
 # **Table of Contents**
 
-[Growth Mindset](notes001.md)<br>
-[Introduction to Markdown](notes002.md)
+[Growth Mindset](102/notes001.md)
+[Introduction to Markdown](102/notes002.md)
