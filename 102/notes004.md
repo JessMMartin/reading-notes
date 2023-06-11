@@ -23,5 +23,6 @@
 
 This rule has a selector (p) that matches all paragraph elements, and a declaration block ({color: red;}) that specifies the style property (color) and value (red) for the elements. This rule would make the text inside all < p > elements appear red on the web page .
 
-
+***
+![CSS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFeHEQ7wGhtg-anNNKnhdqygWBnry25Pw1QA&usqp=CAU)
 
