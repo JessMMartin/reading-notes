@@ -20,3 +20,6 @@ It is called an Attribute.
 
 <br>
 <p>A semantic element is a code element that uses words to show what it contains, in human language. For example, the < header > element means that it has a header, and the < nav > element means that it has a navigation menu. Semantic elements help the browser and the developer know what the content is and what it does. Semantic elements also make it easier to change how the content looks and works with CSS and JavaScript. </p>
+
+***
+![HTML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdASWWyB4__iG4gQ7HjT2VzP_DqJGJ_BXoQ&usqp=CAU)
