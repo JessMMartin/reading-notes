@@ -10,6 +10,6 @@
 
 ## 201 
 ***
-[More HTML, Class-01](201/notes001.md)🟠<br>
-[More, Class-02](201/notes002.md)🔵<br>
-[More, Class-03](201/notes003.md)🟡<br>
+[More,HTML, CSS, Javascript:, Class-01](201/notes001.md)🟠🔵🟡<br>
+[More,HTML, CSS, Javascript: Class-02](201/notes002.md)🟠🔵🟡<br>
+[More,HTML, CSS, Javascript:, Class-03](201/notes003.md)🟠🔵🟡<br> 
