@@ -54,6 +54,7 @@ then the browser takes care of the rest! <br>
 <p>The < meta > tag enables you to specify metadata for your document, including the character encoding, page description, keywords, author, and viewport settings.</p>
 
 ***
+
 ### ✨ What is the first step to designing a Website?
 
 <p> The first step to designing a website is to ask yourself, What would you like to acomplish? Then make a simple plan of what you need to do to reach your goal. 
