@@ -63,9 +63,11 @@ then the browser takes care of the rest! <br>
 <p> The most important question is what are your end goals?</p>
 
 ### ✨ Why should you use an < h1 > element over a <span> element to display a top level heading?
+
 <p>Because by default most browser's user agent stylesheet will style H1 with a large fonr size but < span > has no semantic value, so it will not get any extra benefits.
   
 ### ✨ What are the benefits of using semantic tags in our HTML?
+
 <p>Some benefits include making text more readable, accessable to people with disabilities, to bbost your pages SEO, customise text and inherit default styles from browsers, such as font size and weight, which can save you time and code.</p>
 
 ### ✨ Describe 2 things that require JavaScript in the Browser?
