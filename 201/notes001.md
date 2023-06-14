@@ -1,6 +1,6 @@
 # INTRO:
 
-<p>Our first week scratched the surface in regards to basic HTML, CSS and Javascript, below are some reading notes which will help navigate through some further learning on the subjects.</p>
+<p>Our first week scratched the surface in regards to basic HTML, CSS and Javascript, below are some reading notes which will help navigate through some further learning on the subjects.</p><br>
 
 ***
 
@@ -10,13 +10,14 @@ HTTP sources things from the web, <br>
 Asks the server for the website address, <br>
 The server approves, sends some packets back through, <br>
 then the browser takes care of the rest! <br>
+
 ***
 
-### Describe how HTML, CSS, and JS files are “parsed” in the browser.
+### 🌟 Describe how HTML, CSS, and JS files are “parsed” in the browser.
 
 <p>The first file that the browser reads is the HTML file, and this makes the browser find any < link >-elements that point to external CSS files and any < script >-elements that point to JS files. The browser then asks the server for these files and reads them too. The order of reading these files can change depending on how they are written in the HTML file, but usually, the browser tries to read and run them as fast as possible.</p>
 
- ### 🌟 How can you find images to add to a Website?
+### 🌟 How can you find images to add to a Website?
 
 <p>You can either download the immage from the internet. or copy the image location address for later. </p>
 
@@ -57,7 +58,7 @@ then the browser takes care of the rest! <br>
 
 ### ✨ What is the first step to designing a Website?
 
-<p> The first step to designing a website is to ask yourself, What would you like to acomplish? Then make a simple plan of what you need to do to reach your goal. 
+<p> The first step to designing a website is to ask yourself, What would you like to acomplish? Then make a simple plan of what you need to do to reach your goal. </p>
 
 ### ✨ What is the most important question to answer when designing a Website?
 
@@ -65,7 +66,7 @@ then the browser takes care of the rest! <br>
 
 ### ✨ Why should you use an < h1 > element over a <span> element to display a top level heading?
 
-<p>Because by default most browser's user agent stylesheet will style H1 with a large fonr size but < span > has no semantic value, so it will not get any extra benefits.
+<p>Because by default most browser's user agent stylesheet will style H1 with a large fonr size but < span > has no semantic value, so it will not get any extra benefits.</p>
   
 ### ✨ What are the benefits of using semantic tags in our HTML?
 
@@ -77,5 +78,5 @@ then the browser takes care of the rest! <br>
 
 ### ✨ How can you add JavaScript to an HTML document?
 
-<p>You can either write the Javascript directly on to the HTML or print a link to the javascript itself within the < script > tag. 
+<p>You can either write the Javascript directly on to the HTML or print a link to the javascript itself within the < script > tag. </p>
 
